@@ -1,29 +1,3 @@
-<div align="center">
-
-<img src="https://github.com/Zekereyez.png" width="170" alt="Ezequiel Reyes" />
-
-# Ezequiel Reyes
-
-### `Zekereyez`
-
-**Software Engineer · Builder · Lifelong Learner**
-
-`iOS` · `Web/OTT Player` · `AI` · `Quant` · `Streaming Tech`
-
-<p>
-  <img src="https://img.shields.io/badge/Role-Software%20Engineer%20%40%20Tubi-111827?style=for-the-badge" alt="Role" />
-  <img src="https://img.shields.io/badge/Education-USC%20CS%20'24-111827?style=for-the-badge" alt="Education" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/github/followers/Zekereyez?style=for-the-badge&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Zekereyez?style=for-the-badge&label=Stars" alt="Stars" />
-</p>
-
-</div>
-
----
-
 ## `Zekereyez / README.md`
 
 ```text
